@@ -10,19 +10,18 @@
 
 ## 📋 Introdução ao Projeto
 
-**Coletor de dados do risk** é uma solução desenvolvida para **automatizar o processo de extração, coleta e organização de dados de produção** a partir do sistema **RISK**.
+**Dashboard de análise de salários na area de dados** é uma solução desenvolvida utilizando uma base de dados do excel e desenvolvendo uma interface no Streamlit.
 
-Através de uma **interface intuitiva e interativa**, o projeto facilita a consulta de informações operacionais críticas — como:
+Através de uma **interface intuitiva e interativa**, o projeto facilita a consulta de informações de salários na área de dados como:
 
-- Ordem de Produção (OP)
-- Lote
-- Quantidade de Peças
-- Comprimento
-- Data da Produção
+- Engenheiro de dados
+- Ciêntista de dados
+- AWS
+-E etc...
 
-Esses dados são **atualizados automaticamente** em planilhas de controle, eliminando a necessidade de operações manuais repetitivas, **reduzindo erros humanos** e **economizando tempo**.
+Esses dados são **atualizados** em planilhas de controle,
 
-O objetivo é garantir **maior confiabilidade e eficiência** no monitoramento da produção dos fornos **POCO 5, POCO 6 e POCO 7**.
+O objetivo principal foi *Aprender a desenvolver Dashboard usando Python* 
 
 ---
 
