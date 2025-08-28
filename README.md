@@ -3,6 +3,7 @@
 <p align="center">
   
 ![Banner](banner.png)
+[Acesse o Dashboard aqui](https://dashboardalura-z6h4r9jfqiifguhudn8zzf.streamlit.app/)
 
 </p>
 
