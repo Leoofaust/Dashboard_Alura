@@ -2,7 +2,7 @@
 
 <p align="center">
   
-![Banner](https://github.com/user-attachments/assets/a4d394df-f56d-42c1-9cdf-4cd21f33862a)
+![Banner](banner.png)
 
 </p>
 
